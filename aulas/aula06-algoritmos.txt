@@ -1,0 +1,28 @@
+
+ALGOTIRMO: Conjunto de instruçções que realizam uma tarefa.
+
+Algoritmo para escovar os dentes
+
+ir até ao banheiro
+abrir o armario
+pegar a escova de dentes
+pegar o creme dental
+abrir o creme dental
+aplicar creme dental na escova
+fechar o creme dental
+abrir a torneira
+molhar a escova de dentes
+fechar a torneira
+levar a escova até a boca
+*escovar os dentes (simples a fim de exemplificação)
+cuspir na pia
+abrir a torneira
+enxaguar a boca
+cuspir na pia
+lavar a escova de dentes
+fechar a torneira
+guardar a escova de dentes
+guardar o creme dental
+fechar o armario
+Fim
+
