@@ -1,4 +1,4 @@
---[[BOOLEAN só pode arrumir dois possíveis valores
+--[[BOOLEAN só pode assumir dois possíveis valores
 Verdadeiro ou Falso => true false
 ]]--
 
